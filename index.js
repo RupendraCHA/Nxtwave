@@ -6,3 +6,5 @@ greeting("Chiranjeevi");
 greeting("Vasundhara");
 greeting("Gopi");
 greeting("Rupendra");
+
+console.log("Hello World!")
