@@ -1,3 +1,7 @@
-const greeting = name => `Hello ${name}`
+export const greeting = name => `Hello ${name}`
 
-export default greeting
+export const info = (village, district) => {
+    return `I am living in ${village}, ${district} district.`
+}
+
+// export default greetingS
